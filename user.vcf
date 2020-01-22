@@ -6,7 +6,9 @@ FN: Esteban  Torbar
 ORG:Eposak;
 TITLE:President
 EMAIL;type=INTERNET;type=WORK;type=pref:esteban.torbar@eposak.org
-TEL;type=WORK;type=VOICE:+34 648 261 102\, +1 786 520 9966\, +58 414 330 3149
+TEL;type=WORK;type=VOICE:+34 648 261 102
+TEL;type=WORK;type=VOICE:+1 786 520 9966
+TEL;type=WORK;type=VOICE:+58 414 330 3149
 item1.ADR;type=WORK;type=pref:;;Caracas, Venezuela & Florida, USA;;;501c3;Organization in the US
 item1.X-ABADR:sg
 item2.URL;type=pref:http://www.eposak.org/

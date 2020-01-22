@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Torbar;Esteban;;;
+FN: Esteban  Torbar 
+ORG:Eposak;
+TITLE:President
+EMAIL;type=INTERNET;type=WORK;type=pref:esteban.torbar@eposak.org
+TEL;type=WORK;type=VOICE:+34 648 261 102\, +1 786 520 9966\, +58 414 330 3149
+item1.ADR;type=WORK;type=pref:;;Caracas, Venezuela & Florida, USA;;;501c3;Organization in the US
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:http://www.eposak.org/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
